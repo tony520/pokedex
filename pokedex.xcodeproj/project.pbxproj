@@ -13,6 +13,7 @@
 		2D9836AD243DDD2800D9D79F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D9836AB243DDD2800D9D79F /* Main.storyboard */; };
 		2D9836AF243DDD2A00D9D79F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D9836AE243DDD2A00D9D79F /* Assets.xcassets */; };
 		2D9836B2243DDD2A00D9D79F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D9836B0243DDD2A00D9D79F /* LaunchScreen.storyboard */; };
+		2D9836BA243DE19B00D9D79F /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 2D9836B9243DE19B00D9D79F /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2D9836AE243DDD2A00D9D79F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D9836B1243DDD2A00D9D79F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D9836B3243DDD2A00D9D79F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D9836B9243DE19B00D9D79F /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				2D9836A9243DDD2800D9D79F /* ViewController.swift */,
 				2D9836AB243DDD2800D9D79F /* Main.storyboard */,
 				2D9836AE243DDD2A00D9D79F /* Assets.xcassets */,
+				2D9836B9243DE19B00D9D79F /* pokemon.csv */,
 				2D9836B0243DDD2A00D9D79F /* LaunchScreen.storyboard */,
 				2D9836B3243DDD2A00D9D79F /* Info.plist */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				2D9836B2243DDD2A00D9D79F /* LaunchScreen.storyboard in Resources */,
 				2D9836AF243DDD2A00D9D79F /* Assets.xcassets in Resources */,
+				2D9836BA243DE19B00D9D79F /* pokemon.csv in Resources */,
 				2D9836AD243DDD2800D9D79F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
